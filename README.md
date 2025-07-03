@@ -5,8 +5,8 @@
 - 📫 How to reach me = {
                      email: 'saniharuna213@gmail.com',
                      phoneNumber: 2348026751620,
-                     facebook: 'Moh_Elsaan',
-                     instagram: 'Moh_Elsaan'
+                     facebook: 'moh_Elsaan',
+                     instagram: 'moh_Elsaan'
        };
 
 <!---
